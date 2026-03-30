@@ -9,5 +9,5 @@ EMAIL:jakub.matousek@technodat.eu
 ADR:;;tř. T. Bati 3295;Zlín;;76001;Czechia
 URL:https://www.technodat.eu
 URL:https://www.linkedin.com/in/tenkyklient/
-PHOTO;TYPE=JPEG;VALUE=uri:https://crotalusadam.github.io/vizitka/jakub.jpeg
+PHOTO;TVALUE=URL:https://crotalusadam.github.io/vizitka/jakub.jpeg
 END:VCARD
