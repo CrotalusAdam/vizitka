@@ -8,6 +8,6 @@ TEL:+420725426880
 EMAIL:jakub.matousek@technodat.eu
 ADR:;;tř. T. Bati 3295;Zlín;;76001;Czechia
 URL:https://www.technodat.eu
-URL:TYPE=PROFILE;X-LABEL=LinkedIn:https://www.linkedin.com/in/tenkyklient/
-PHOTO;TVALUE=URL:https://crotalusadam.github.io/vizitka/jakub.jpeg
+URL;TYPE=PROFILE;X-LABEL=LinkedIn:https://www.linkedin.com/in/tenkyklient/
+PHOTO;VALUE=URL:https://crotalusadam.github.io/vizitka/jakub.jpeg
 END:VCARD
